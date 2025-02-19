@@ -78,5 +78,4 @@
 | altair_debugging.ipynb      | Tradução NEF          | NEF  |     |
 | altair_debugging.ipynb      | Tradução IS+IP         | IS+IP  |     |
 | altair_debugging.ipynb      | Tradução PABI          | PABI  |     |
-| altair_debugging.ipynb      | Tradução MSYAUTLVOA           | MSYAUTLVOA  |     |
 | altair_debugging.ipynb      | Tradução AFH+RI        | AFH+RI  |     |
