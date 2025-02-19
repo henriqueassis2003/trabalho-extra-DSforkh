@@ -46,15 +46,15 @@
 | altair_data_transformation.ipynb      | Tradução 3.4.4         | 3.4.4 |     |
 | altair_data_transformation.ipynb      | Tradução 3.5         | 3.5 |     |
 |      |              |  |     |
-| altair_interaction.ipynb      | Tradução 6         | 6 |     |
+| altair_interaction.ipynb      | Tradução 6         | 6 | Pedro Carvalho    |
 | altair_interaction.ipynb      | Tradução 6.1         | 6.1 |     |
 | altair_interaction.ipynb      | Tradução 6.2         | 6.2 |     |
 | altair_interaction.ipynb      | Tradução 6.3         | 6.3 |     |
 | altair_interaction.ipynb      | Tradução 6.3.1         | 6.3.1 |     |
 | altair_interaction.ipynb      | Tradução 6.3.2         | 6.3.2 |     |
-| altair_interaction.ipynb      | Tradução 6.4         | 6.4 |     |
-| altair_interaction.ipynb      | Tradução 6.5         | 6.5 |     |
-| altair_interaction.ipynb      | Tradução 6.6         | 6.6 |     |
+| altair_interaction.ipynb      | Tradução 6.4         | 6.4 | Pedro Carvalho     |
+| altair_interaction.ipynb      | Tradução 6.5         | 6.5 | Pedro Carvalho     |
+| altair_interaction.ipynb      | Tradução 6.6         | 6.6 |  Pedro Carvalho    |
 | altair_interaction.ipynb      | Tradução 6.7         | 6.7 |     |
 | altair_interaction.ipynb      | Tradução 6.7.1         | 6.7.1 |     |
 | altair_interaction.ipynb      | Tradução 6.8         | 6.8 |     |
@@ -78,5 +78,4 @@
 | altair_debugging.ipynb      | Tradução NEF          | NEF  |     |
 | altair_debugging.ipynb      | Tradução IS+IP         | IS+IP  |     |
 | altair_debugging.ipynb      | Tradução PABI          | PABI  |     |
-| altair_debugging.ipynb      | Tradução MSYAUTLVOA           | MSYAUTLVOA  |     |
 | altair_debugging.ipynb      | Tradução AFH+RI        | AFH+RI  |     |
