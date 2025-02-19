@@ -58,6 +58,7 @@
 | altair_interaction.ipynb      | Tradução 6.7         | 6.7 |     |
 | altair_interaction.ipynb      | Tradução 6.7.1         | 6.7.1 |     |
 | altair_interaction.ipynb      | Tradução 6.8         | 6.8 |     |
+| altair_interaction.ipynb      | Tradução 6.8.1         | 6.8.1 |     |
 |      |              |  |     |
 | altair_cartographic.ipynb      | Tradução 7             | 7 | Henrique Assis     |
 | altair_cartographic.ipynb      | Tradução 7.1             | 7.1 | Henrique Assis     |
