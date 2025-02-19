@@ -47,8 +47,8 @@
 | altair_data_transformation.ipynb      | Tradução 3.5         | 3.5 |     |
 |      |              |  |     |
 | altair_interaction.ipynb      | Tradução 6         | 6 | Pedro Carvalho    |
-| altair_interaction.ipynb      | Tradução 6.1         | 6.1 |     |
-| altair_interaction.ipynb      | Tradução 6.2         | 6.2 |     |
+| altair_interaction.ipynb      | Tradução 6.1         | 6.1 |   Gabriel Souza  |
+| altair_interaction.ipynb      | Tradução 6.2         | 6.2 |Gabriel Souza     |
 | altair_interaction.ipynb      | Tradução 6.3         | 6.3 |   Herivelton Siqueira  |
 | altair_interaction.ipynb      | Tradução 6.3.1         | 6.3.1 | Herivelton Siqueira    |
 | altair_interaction.ipynb      | Tradução 6.3.2         | 6.3.2 |   Herivelton Siqueira  |
