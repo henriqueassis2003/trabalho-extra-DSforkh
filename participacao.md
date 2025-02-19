@@ -49,9 +49,9 @@
 | altair_interaction.ipynb      | Tradução 6         | 6 | Pedro Carvalho    |
 | altair_interaction.ipynb      | Tradução 6.1         | 6.1 |     |
 | altair_interaction.ipynb      | Tradução 6.2         | 6.2 |     |
-| altair_interaction.ipynb      | Tradução 6.3         | 6.3 |     |
-| altair_interaction.ipynb      | Tradução 6.3.1         | 6.3.1 |     |
-| altair_interaction.ipynb      | Tradução 6.3.2         | 6.3.2 |     |
+| altair_interaction.ipynb      | Tradução 6.3         | 6.3 |   Herivelton Siqueira  |
+| altair_interaction.ipynb      | Tradução 6.3.1         | 6.3.1 | Herivelton Siqueira    |
+| altair_interaction.ipynb      | Tradução 6.3.2         | 6.3.2 |   Herivelton Siqueira  |
 | altair_interaction.ipynb      | Tradução 6.4         | 6.4 | Pedro Carvalho     |
 | altair_interaction.ipynb      | Tradução 6.5         | 6.5 | Pedro Carvalho     |
 | altair_interaction.ipynb      | Tradução 6.6         | 6.6 |  Pedro Carvalho    |
@@ -62,9 +62,9 @@
 | altair_cartographic.ipynb      | Tradução 7             | 7 | Henrique Assis     |
 | altair_cartographic.ipynb      | Tradução 7.1             | 7.1 | Henrique Assis     |
 | altair_cartographic.ipynb      | Tradução 7.2             | 7.2 | Henrique Assis     |
-| altair_cartographic.ipynb      | Tradução 7.3             | 7.3 |     |
-| altair_cartographic.ipynb      | Tradução 7.4             | 7.4 |     |
-| altair_cartographic.ipynb      | Tradução 7.5             | 7.5 |     |
+| altair_cartographic.ipynb      | Tradução 7.3             | 7.3 |    |
+| altair_cartographic.ipynb      | Tradução 7.4             | 7.4 |   Bruno Pereira  |
+| altair_cartographic.ipynb      | Tradução 7.5             | 7.5 | Bruno pereira     |
 | altair_cartographic.ipynb      | Tradução 7.6             | 7.6 |     |
 | altair_cartographic.ipynb      | Tradução 7.7             | 7.7 |     |
 | altair_cartographic.ipynb      | Tradução 7.8             | 7.8 | Henrique Assis     |
