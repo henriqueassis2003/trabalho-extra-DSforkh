@@ -57,8 +57,8 @@ Tabela tradução:
 | altair_interaction.ipynb      | Tradução 6.4         | 6.4 | Pedro Carvalho     |
 | altair_interaction.ipynb      | Tradução 6.5         | 6.5 | Pedro Carvalho     |
 | altair_interaction.ipynb      | Tradução 6.6         | 6.6 |  Pedro Carvalho    |
-| altair_interaction.ipynb      | Tradução 6.7         | 6.7 |     |
-| altair_interaction.ipynb      | Tradução 6.7.1         | 6.7.1 |     |
+| altair_interaction.ipynb      | Tradução 6.7         | 6.7 | Marcos Abílio    |
+| altair_interaction.ipynb      | Tradução 6.7.1         | 6.7.1 | Marcos Abílio    |
 | altair_interaction.ipynb      | Tradução 6.8         | 6.8 |  Jonathas David    |
 | altair_interaction.ipynb      | Tradução 6.8.1         | 6.8.1 |   Jonathas David   |
 |      |              |  |     |
