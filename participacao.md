@@ -183,5 +183,5 @@ Total de tópicos: 75
 |Marcos Abilio  |            | |   |
 |Maria Eduarda |          |  |   |
 |Pedro Carvalho  |           |  |    |
-
+|Restante |           |  |    |
 É considerado em situação OK, quem tenha traduzido ou revisado pelo menos 6% dos tópicos
