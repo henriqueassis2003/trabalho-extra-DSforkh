@@ -46,7 +46,7 @@ Tabela tradução:
 | altair_data_transformation.ipynb      | Tradução 3.4.2         | 3.4.2 |     |
 | altair_data_transformation.ipynb      | Tradução 3.4.3         | 3.4.3 |     |
 | altair_data_transformation.ipynb      | Tradução 3.4.4         | 3.4.4 |     |
-| altair_data_transformation.ipynb      | Tradução 3.5         | 3.5 |     |
+| altair_data_transformation.ipynb      | Tradução 3.5         | 3.5 | Marcos Abílio      |
 |      |              |  |     |
 | altair_interaction.ipynb      | Tradução 6         | 6 | Pedro Carvalho    |
 | altair_interaction.ipynb      | Tradução 6.1         | 6.1 |   Gabriel Souza  |
@@ -180,7 +180,7 @@ Total de tópicos: 75
 |Henrique Assis     |  13  |  0|   OK |
 |Herivelton Siqueira   |     3      | 0|    Falta 1 |
 |Jonathas David  |  7        | 0 | OK   |
-|Marcos Abilio  |     2       |0 |Falta 2   |
+|Marcos Abilio  |     3       |0 |Falta 1   |
 |Maria Eduarda |       9   |  0|   OK|
 |Pedro Carvalho  |   4        | 0 |   OK |
 |Restante |          | |    |
