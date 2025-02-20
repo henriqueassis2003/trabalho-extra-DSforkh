@@ -10,11 +10,11 @@ Tabela tradução:
 | altair_marks_encoding.ipynb      | Tradução 2         | 2 |   Henrique Assis   |
 | altair_marks_encoding.ipynb      | Tradução 2.1         | 2.1 |   Henrique Assis   |
 | altair_marks_encoding.ipynb      | Tradução 2.2         | 2.2 |   Henrique Assis   |
-| altair_marks_encoding.ipynb      | Tradução 2.2.1         | 2.2.1 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.2.2         | 2.2.2 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.2.3         | 2.2.3 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.2.4         | 2.2.4 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.2.5         | 2.2.5 |     |
+| altair_marks_encoding.ipynb      | Tradução 2.2.1         | 2.2.1 |  Jonathas David    |
+| altair_marks_encoding.ipynb      | Tradução 2.2.2         | 2.2.2 | Jonathas David     |
+| altair_marks_encoding.ipynb      | Tradução 2.2.3         | 2.2.3 | Jonathas David     |
+| altair_marks_encoding.ipynb      | Tradução 2.2.4         | 2.2.4 | Jonathas David     |
+| altair_marks_encoding.ipynb      | Tradução 2.2.5         | 2.2.5 |  Jonathas David    |
 | altair_marks_encoding.ipynb      | Tradução 2.3         | 2.3 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.1         | 2.3.1 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.2         | 2.3.2 |     |
@@ -22,15 +22,15 @@ Tabela tradução:
 | altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.4         | 2.3.4 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.5         | 2.3.5 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.6         | 2.3.6 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.7         | 2.3.7 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.8         | 2.3.8 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4         | 2.4 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.1         | 2.4.1 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.2         | 2.4.2 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.3         | 2.4.3 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.4         | 2.4.4 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.5         | 2.4.5 |     |
+| altair_marks_encoding.ipynb      | Tradução 2.3.6         | 2.3.6 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.3.7         | 2.3.7 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.3.8         | 2.3.8 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4         | 2.4 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.1         | 2.4.1 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.2         | 2.4.2 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.3         | 2.4.3 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.4         | 2.4.4 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.5         | 2.4.5 | Maria Eduarda |
 | altair_marks_encoding.ipynb      | Tradução 2.4.6         | 2.4.6 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.4.7         | 2.4.7 |     |
 |      |              |  |     |
@@ -46,7 +46,7 @@ Tabela tradução:
 | altair_data_transformation.ipynb      | Tradução 3.4.2         | 3.4.2 |     |
 | altair_data_transformation.ipynb      | Tradução 3.4.3         | 3.4.3 |     |
 | altair_data_transformation.ipynb      | Tradução 3.4.4         | 3.4.4 |     |
-| altair_data_transformation.ipynb      | Tradução 3.5         | 3.5 |     |
+| altair_data_transformation.ipynb      | Tradução 3.5         | 3.5 | Marcos Abílio      |
 |      |              |  |     |
 | altair_interaction.ipynb      | Tradução 6         | 6 | Pedro Carvalho    |
 | altair_interaction.ipynb      | Tradução 6.1         | 6.1 |   Gabriel Souza  |
@@ -57,10 +57,10 @@ Tabela tradução:
 | altair_interaction.ipynb      | Tradução 6.4         | 6.4 | Pedro Carvalho     |
 | altair_interaction.ipynb      | Tradução 6.5         | 6.5 | Pedro Carvalho     |
 | altair_interaction.ipynb      | Tradução 6.6         | 6.6 |  Pedro Carvalho    |
-| altair_interaction.ipynb      | Tradução 6.7         | 6.7 |     |
-| altair_interaction.ipynb      | Tradução 6.7.1         | 6.7.1 |     |
-| altair_interaction.ipynb      | Tradução 6.8         | 6.8 |     |
-| altair_interaction.ipynb      | Tradução 6.8.1         | 6.8.1 |     |
+| altair_interaction.ipynb      | Tradução 6.7         | 6.7 | Marcos Abílio    |
+| altair_interaction.ipynb      | Tradução 6.7.1         | 6.7.1 | Marcos Abílio    |
+| altair_interaction.ipynb      | Tradução 6.8         | 6.8 |  Jonathas David    |
+| altair_interaction.ipynb      | Tradução 6.8.1         | 6.8.1 |   Jonathas David   |
 |      |              |  |     |
 | altair_cartographic.ipynb      | Tradução 7             | 7 | Henrique Assis     |
 | altair_cartographic.ipynb      | Tradução 7.1             | 7.1 | Henrique Assis     |
@@ -179,10 +179,10 @@ Total de tópicos: 75
 |Gabriel Souza   |  2      | 0|    Falta 2      |
 |Henrique Assis     |  13  |  0|   OK |
 |Herivelton Siqueira   |     3      | 0|    Falta 1 |
-|Jonatas David  |          | 0 |    |
-|Marcos Abilio  |     0       |0 |Falta 4   |
-|Maria Eduarda |       0   |  0|   Falta 4|
+|Jonathas David  |  7        | 0 | OK   |
+|Marcos Abilio  |     3       |0 |Falta 1   |
+|Maria Eduarda |       9   |  0|   OK|
 |Pedro Carvalho  |   4        | 0 |   OK |
-|Restante |     54      | 75 |  falta 129  |
+|Restante |          | |    |
 
 É considerado em situação OK, quem tenha traduzido ou revisado pelo menos 4 tópicos
