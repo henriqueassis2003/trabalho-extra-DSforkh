@@ -5,9 +5,9 @@
 |intro.md      | Introdução do site LI      |LI  |  Henrique Assis   |
 |intro.md      | Introdução do site Creditos           |Creditos  |  Henrique Assis   |
 |      |              |  |     |
-| altair_marks_encoding.ipynb      | Tradução 2         | 2 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.1         | 2.1 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.2         | 2.2 |     |
+| altair_marks_encoding.ipynb      | Tradução 2         | 2 |   Henrique Assis   |
+| altair_marks_encoding.ipynb      | Tradução 2.1         | 2.1 |   Henrique Assis   |
+| altair_marks_encoding.ipynb      | Tradução 2.2         | 2.2 |   Henrique Assis   |
 | altair_marks_encoding.ipynb      | Tradução 2.2.1         | 2.2.1 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.2.2         | 2.2.2 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.2.3         | 2.2.3 |     |
@@ -37,8 +37,8 @@
 | altair_data_transformation.ipynb      | Tradução 3.2         | 3.2 |     |
 | altair_data_transformation.ipynb      | Tradução 3.3         | 3.3 |     |
 | altair_data_transformation.ipynb      | Tradução 3.3.1         | 3.3.1 |     |
-| altair_data_transformation.ipynb      | Tradução 3.3.2         | 3.3.2 |     |
-| altair_data_transformation.ipynb      | Tradução 3.3.3         | 3.3.3 |     |
+| altair_data_transformation.ipynb      | Tradução 3.3.2         | 3.3.2 |    Henrique Assis  |
+| altair_data_transformation.ipynb      | Tradução 3.3.3         | 3.3.3 |   Henrique Assis   |
 | altair_data_transformation.ipynb      | Tradução 3.4         | 3.4 |     |
 | altair_data_transformation.ipynb      | Tradução 3.4.1         | 3.4.1 |     |
 | altair_data_transformation.ipynb      | Tradução 3.4.2         | 3.4.2 |     |
