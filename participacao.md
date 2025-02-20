@@ -184,4 +184,5 @@ Total de tópicos: 75
 |Maria Eduarda |          |  |   |
 |Pedro Carvalho  |           |  |    |
 |Restante |           |  |    |
-É considerado em situação OK, quem tenha traduzido ou revisado pelo menos 6% dos tópicos
+
+É considerado em situação OK, quem tenha traduzido ou revisado pelo menos 5 tópicos
