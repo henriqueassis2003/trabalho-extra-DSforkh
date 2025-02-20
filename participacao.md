@@ -22,15 +22,15 @@ Tabela tradução:
 | altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.4         | 2.3.4 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.5         | 2.3.5 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.6         | 2.3.6 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.7         | 2.3.7 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.8         | 2.3.8 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4         | 2.4 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.1         | 2.4.1 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.2         | 2.4.2 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.3         | 2.4.3 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.4         | 2.4.4 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.5         | 2.4.5 |     |
+| altair_marks_encoding.ipynb      | Tradução 2.3.6         | 2.3.6 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.3.7         | 2.3.7 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.3.8         | 2.3.8 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4         | 2.4 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.1         | 2.4.1 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.2         | 2.4.2 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.3         | 2.4.3 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.4         | 2.4.4 | Maria Eduarda |
+| altair_marks_encoding.ipynb      | Tradução 2.4.5         | 2.4.5 | Maria Eduarda |
 | altair_marks_encoding.ipynb      | Tradução 2.4.6         | 2.4.6 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.4.7         | 2.4.7 |     |
 |      |              |  |     |
