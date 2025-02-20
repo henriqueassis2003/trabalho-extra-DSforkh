@@ -176,7 +176,6 @@ Total de tópicos: 75
 | Participante  | Tópicos Traduzidos                  | Tópicos revisados  | Situação      | 
 |---------------------|-----------------------------|--------|------------------|
 |Bruno Pereira   | 2        | 0|  Falta 2 |
-|Daphny Santos |      0     |  0|  Falta 4  |
 |Gabriel Souza   |  2      | 0|    Falta 2      |
 |Henrique Assis     |  13  |  0|   OK |
 |Herivelton Siqueira   |     3      | 0|    Falta 1 |
