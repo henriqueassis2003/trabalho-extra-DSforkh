@@ -1,6 +1,6 @@
 Tabela tradução:
 
-| Nome do Arquivo     | Descrição                    | Item   | aluno       |
+| Nome do Arquivo     | Descrição                    | Item   | Participante      |
 |---------------------|-----------------------------|--------|------------------|
 |intro.md      | Introdução do site VC+I             |VC+I  |  Henrique Assis   |
 |intro.md      | Introdução do site GS             |GS  |  Henrique Assis   |
@@ -86,7 +86,7 @@ Tabela tradução:
 
 Tabela Revisão:
 
-| Nome do Arquivo     | Descrição                    | Item   | aluno       |
+| Nome do Arquivo     | Descrição                    | Item   | Participante       |
 |---------------------|-----------------------------|--------|------------------|
 |intro.md      | Revisão Introdução do site VC+I             |VC+I  |  Henrique Assis   |
 |intro.md      | Revisão Introdução do site GS             |GS  |  Henrique Assis   |
@@ -168,3 +168,20 @@ Tabela Revisão:
 | altair_debugging.ipynb      | Revisão IS+IP         | IS+IP  |     |
 | altair_debugging.ipynb      | Revisão PABI          | PABI  |     |
 | altair_debugging.ipynb      | Revisão AFH+RI        | AFH+RI  |     |
+
+Participação:
+
+Total de tópicos: 75
+
+| Participante  | Tópicos Traduzidos                  | Tópicos revisados  | Situação      | 
+|---------------------|-----------------------------|--------|------------------|
+|Bruno Pereira   |         | |   |
+|Gabriel Souza   |            | |     |
+|Henrique Assis     |    |  |    |
+|Herivelton Siqueira   |           | |     |
+|Jonatas David  |          |  |    |
+|Marcos Abilio  |            | |   |
+|Maria Eduarda |          |  |   |
+|Pedro Carvalho  |           |  |    |
+
+É considerado em situação OK, quem tenha traduzido ou revisado pelo menos 6% dos tópicos
