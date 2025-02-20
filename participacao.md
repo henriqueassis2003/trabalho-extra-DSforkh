@@ -134,19 +134,19 @@ Tabela Revisão:
 | altair_data_transformation.ipynb      | Revisão 3.4.4         | 3.4.4 |     |
 | altair_data_transformation.ipynb      | Revisão 3.5         | 3.5 |     |
 |      |              |  |     |
-| altair_interaction.ipynb      | Revisão 6         | 6 |    |
-| altair_interaction.ipynb      | Revisão 6.1         | 6.1 |   |
-| altair_interaction.ipynb      | Revisão 6.2         | 6.2 |   |
-| altair_interaction.ipynb      | Revisão 6.3         | 6.3 |   |
-| altair_interaction.ipynb      | Revisão 6.3.1         | 6.3.1 |   |
-| altair_interaction.ipynb      | Revisão 6.3.2         | 6.3.2 |    |
-| altair_interaction.ipynb      | Revisão 6.4         | 6.4 |    |
-| altair_interaction.ipynb      | Revisão 6.5         | 6.5 |     |
-| altair_interaction.ipynb      | Revisão 6.6         | 6.6 |   |
-| altair_interaction.ipynb      | Revisão 6.7         | 6.7 |     |
-| altair_interaction.ipynb      | Revisão 6.7.1         | 6.7.1 |     |
-| altair_interaction.ipynb      | Revisão 6.8         | 6.8 |     |
-| altair_interaction.ipynb      | Revisão 6.8.1         | 6.8.1 |     |
+| altair_interaction.ipynb      | Revisão 6         | 6 |    Henrique Assis  |
+| altair_interaction.ipynb      | Revisão 6.1         | 6.1 |  Henrique Assis   |
+| altair_interaction.ipynb      | Revisão 6.2         | 6.2 |   Henrique Assis  |
+| altair_interaction.ipynb      | Revisão 6.3         | 6.3 |   Henrique Assis  |
+| altair_interaction.ipynb      | Revisão 6.3.1         | 6.3.1 |  Henrique Assis   |
+| altair_interaction.ipynb      | Revisão 6.3.2         | 6.3.2 |  Henrique Assis    |
+| altair_interaction.ipynb      | Revisão 6.4         | 6.4 |    Henrique Assis  |
+| altair_interaction.ipynb      | Revisão 6.5         | 6.5 |  Henrique Assis     |
+| altair_interaction.ipynb      | Revisão 6.6         | 6.6 |  Henrique Assis   |
+| altair_interaction.ipynb      | Revisão 6.7         | 6.7 |  Henrique Assis     |
+| altair_interaction.ipynb      | Revisão 6.7.1         | 6.7.1 |   Henrique Assis    |
+| altair_interaction.ipynb      | Revisão 6.8         | 6.8 |     Henrique Assis  |
+| altair_interaction.ipynb      | Revisão 6.8.1         | 6.8.1 |   Henrique Assis    |
 |      |              |  |     |
 | altair_cartographic.ipynb      | Revisão 7             | 7 |      |
 | altair_cartographic.ipynb      | Revisão 7.1             | 7.1 |    |
@@ -177,7 +177,7 @@ Total de tópicos: 75
 |---------------------|-----------------------------|--------|------------------|
 |Bruno Pereira   | 2        | 0|  Falta 2 |
 |Gabriel Souza   |  2      | 0|    Falta 2      |
-|Henrique Assis     |  13  |  0|   OK |
+|Henrique Assis     |  13  |  13|   OK |
 |Herivelton Siqueira   |     3      | 0|    Falta 1 |
 |Jonathas David  |  7        | 0 | OK   |
 |Marcos Abilio  |     3       |0 |Falta 1   |
