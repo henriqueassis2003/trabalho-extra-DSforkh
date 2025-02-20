@@ -175,14 +175,15 @@ Total de tópicos: 75
 
 | Participante  | Tópicos Traduzidos                  | Tópicos revisados  | Situação      | 
 |---------------------|-----------------------------|--------|------------------|
-|Bruno Pereira   |         | |   |
-|Gabriel Souza   |            | |     |
-|Henrique Assis     |    |  |    |
-|Herivelton Siqueira   |           | |     |
-|Jonatas David  |          |  |    |
-|Marcos Abilio  |            | |   |
-|Maria Eduarda |          |  |   |
-|Pedro Carvalho  |           |  |    |
-|Restante |           |  |    |
+|Bruno Pereira   | 2        | 0|  Falta 2 |
+|Daphny Santos |      0     |  0|  Falta 4  |
+|Gabriel Souza   |  2      | 0|    Falta 2      |
+|Henrique Assis     |  13  |  0|   OK |
+|Herivelton Siqueira   |     3      | 0|    Falta 1 |
+|Jonatas David  |          | 0 |    |
+|Marcos Abilio  |     0       |0 |Falta 4   |
+|Maria Eduarda |       0   |  0|   Falta 4|
+|Pedro Carvalho  |   4        | 0 |   OK |
+|Restante |     54      | 75 |  falta 129  |
 
-É considerado em situação OK, quem tenha traduzido ou revisado pelo menos 5 tópicos
+É considerado em situação OK, quem tenha traduzido ou revisado pelo menos 4 tópicos
