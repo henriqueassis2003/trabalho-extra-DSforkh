@@ -41,10 +41,10 @@ Tabela tradução:
 | altair_data_transformation.ipynb      | Tradução 3.3.1         | 3.3.1 |     |
 | altair_data_transformation.ipynb      | Tradução 3.3.2         | 3.3.2 |    Henrique Assis  |
 | altair_data_transformation.ipynb      | Tradução 3.3.3         | 3.3.3 |   Henrique Assis   |
-| altair_data_transformation.ipynb      | Tradução 3.4         | 3.4 |     |
-| altair_data_transformation.ipynb      | Tradução 3.4.1         | 3.4.1 |     |
-| altair_data_transformation.ipynb      | Tradução 3.4.2         | 3.4.2 |     |
-| altair_data_transformation.ipynb      | Tradução 3.4.3         | 3.4.3 |     |
+| altair_data_transformation.ipynb      | Tradução 3.4         | 3.4 |    Gabriel Souza   |
+| altair_data_transformation.ipynb      | Tradução 3.4.1         | 3.4.1 |  Gabriel Souza     |
+| altair_data_transformation.ipynb      | Tradução 3.4.2         | 3.4.2 |   Gabriel Souza    |
+| altair_data_transformation.ipynb      | Tradução 3.4.3         | 3.4.3 |   Gabriel Souza    |
 | altair_data_transformation.ipynb      | Tradução 3.4.4         | 3.4.4 |     |
 | altair_data_transformation.ipynb      | Tradução 3.5         | 3.5 | Marcos Abílio      |
 |      |              |  |     |
@@ -176,7 +176,7 @@ Total de tópicos: 75
 | Participante  | Tópicos Traduzidos                  | Tópicos revisados  | Situação      | 
 |---------------------|-----------------------------|--------|------------------|
 |Bruno Pereira   | 2        | 0|  Falta 2 |
-|Gabriel Souza   |  2      | 0|    Falta 2      |
+|Gabriel Souza   |  6      | 0|   OK  |
 |Henrique Assis     |  13  |  13|   OK |
 |Herivelton Siqueira   |     3      | 0|    Falta 1 |
 |Jonathas David  |  7        | 0 | OK   |
