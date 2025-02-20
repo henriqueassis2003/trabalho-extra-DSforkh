@@ -180,7 +180,7 @@ Total de tópicos: 75
 |Henrique Assis     |  13  |  0|   OK |
 |Herivelton Siqueira   |     3      | 0|    Falta 1 |
 |Jonathas David  |  7        | 0 | OK   |
-|Marcos Abilio  |     0       |0 |Falta 4   |
+|Marcos Abilio  |     2       |0 |Falta 2   |
 |Maria Eduarda |       9   |  0|   OK|
 |Pedro Carvalho  |   4        | 0 |   OK |
 |Restante |          | |    |
